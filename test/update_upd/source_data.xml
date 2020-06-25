@@ -1,0 +1,753 @@
+﻿<ValueTable xmlns="http://v8.1c.ru/8.1/data/core" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ValueTable">
+	<column>
+		<Name xsi:type="xs:string">НомерСтроки</Name>
+		<ValueType>
+			<Type>Null</Type>
+			<Type>xs:decimal</Type>
+			<NumberQualifiers>
+				<Digits>5</Digits>
+				<FractionDigits>0</FractionDigits>
+				<AllowedSign>Nonnegative</AllowedSign>
+			</NumberQualifiers>
+		</ValueType>
+		<Title>НомерСтроки</Title>
+		<Width xsi:type="xs:decimal">5</Width>
+	</column>
+	<column>
+		<Name xsi:type="xs:string">Штрихкод</Name>
+		<ValueType>
+			<Type>Null</Type>
+			<TypeSet xmlns:d4p1="http://v8.1c.ru/8.1/data/enterprise/current-config">d4p1:Characteristic.ТипыШтрихкодов</TypeSet>
+		</ValueType>
+		<Title>Штрихкод</Title>
+		<Width xsi:type="xs:decimal">25</Width>
+	</column>
+	<row>
+		<Value xsi:type="xs:decimal">1</Value>
+		<Value xsi:type="xs:string">2000328634381</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">2</Value>
+		<Value xsi:type="xs:string">2000328628540</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">3</Value>
+		<Value xsi:type="xs:string">2000328628533</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">4</Value>
+		<Value xsi:type="xs:string">2000328628557</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">5</Value>
+		<Value xsi:type="xs:string">2000328628564</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">6</Value>
+		<Value xsi:type="xs:string">2000328628595</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">7</Value>
+		<Value xsi:type="xs:string">2000328628588</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">8</Value>
+		<Value xsi:type="xs:string">2000328628571</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">9</Value>
+		<Value xsi:type="xs:string">2000328628601</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">10</Value>
+		<Value xsi:type="xs:string">2000328628618</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">11</Value>
+		<Value xsi:type="xs:string">2000328628649</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">12</Value>
+		<Value xsi:type="xs:string">2000328628632</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">13</Value>
+		<Value xsi:type="xs:string">2000328628625</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">14</Value>
+		<Value xsi:type="xs:string">2000328628656</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">15</Value>
+		<Value xsi:type="xs:string">2000328628663</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">16</Value>
+		<Value xsi:type="xs:string">2000328628694</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">17</Value>
+		<Value xsi:type="xs:string">2000328628687</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">18</Value>
+		<Value xsi:type="xs:string">2000328628670</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">19</Value>
+		<Value xsi:type="xs:string">2000328628700</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">20</Value>
+		<Value xsi:type="xs:string">2000328628717</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">21</Value>
+		<Value xsi:type="xs:string">2000328628748</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">22</Value>
+		<Value xsi:type="xs:string">2000328628731</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">23</Value>
+		<Value xsi:type="xs:string">2000328628724</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">24</Value>
+		<Value xsi:type="xs:string">2000328628755</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">25</Value>
+		<Value xsi:type="xs:string">2000328628762</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">26</Value>
+		<Value xsi:type="xs:string">2000328628793</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">27</Value>
+		<Value xsi:type="xs:string">2000328628786</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">28</Value>
+		<Value xsi:type="xs:string">2000328628779</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">29</Value>
+		<Value xsi:type="xs:string">2000328628809</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">30</Value>
+		<Value xsi:type="xs:string">2000328628816</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">31</Value>
+		<Value xsi:type="xs:string">2000328634213</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">32</Value>
+		<Value xsi:type="xs:string">2000328634190</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">33</Value>
+		<Value xsi:type="xs:string">2000328634183</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">34</Value>
+		<Value xsi:type="xs:string">2000328634176</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">35</Value>
+		<Value xsi:type="xs:string">2000328634206</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">36</Value>
+		<Value xsi:type="xs:string">2000328634268</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">37</Value>
+		<Value xsi:type="xs:string">2000328634244</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">38</Value>
+		<Value xsi:type="xs:string">2000328634237</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">39</Value>
+		<Value xsi:type="xs:string">2000328634220</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">40</Value>
+		<Value xsi:type="xs:string">2000328634251</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">41</Value>
+		<Value xsi:type="xs:string">2000328634312</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">42</Value>
+		<Value xsi:type="xs:string">2000328634299</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">43</Value>
+		<Value xsi:type="xs:string">2000328634282</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">44</Value>
+		<Value xsi:type="xs:string">2000328634275</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">45</Value>
+		<Value xsi:type="xs:string">2000328634305</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">46</Value>
+		<Value xsi:type="xs:string">2000328628380</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">47</Value>
+		<Value xsi:type="xs:string">2000328628373</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">48</Value>
+		<Value xsi:type="xs:string">2000328628366</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">49</Value>
+		<Value xsi:type="xs:string">2000328628359</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">50</Value>
+		<Value xsi:type="xs:string">2000328628489</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">51</Value>
+		<Value xsi:type="xs:string">2000328628465</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">52</Value>
+		<Value xsi:type="xs:string">2000328628458</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">53</Value>
+		<Value xsi:type="xs:string">2000328628441</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">54</Value>
+		<Value xsi:type="xs:string">2000328628472</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">55</Value>
+		<Value xsi:type="xs:string">2000328628021</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">56</Value>
+		<Value xsi:type="xs:string">2000328628014</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">57</Value>
+		<Value xsi:type="xs:string">2000328628007</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">58</Value>
+		<Value xsi:type="xs:string">2000328628038</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">59</Value>
+		<Value xsi:type="xs:string">2000328628045</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">60</Value>
+		<Value xsi:type="xs:string">2000328628076</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">61</Value>
+		<Value xsi:type="xs:string">2000328628069</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">62</Value>
+		<Value xsi:type="xs:string">2000328628052</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">63</Value>
+		<Value xsi:type="xs:string">2000328628083</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">64</Value>
+		<Value xsi:type="xs:string">2000328628090</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">65</Value>
+		<Value xsi:type="xs:string">2000328628120</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">66</Value>
+		<Value xsi:type="xs:string">2000328628113</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">67</Value>
+		<Value xsi:type="xs:string">2000328628106</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">68</Value>
+		<Value xsi:type="xs:string">2000328628137</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">69</Value>
+		<Value xsi:type="xs:string">2000328628144</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">70</Value>
+		<Value xsi:type="xs:string">2000328628175</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">71</Value>
+		<Value xsi:type="xs:string">2000328628168</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">72</Value>
+		<Value xsi:type="xs:string">2000328628151</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">73</Value>
+		<Value xsi:type="xs:string">2000328628182</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">74</Value>
+		<Value xsi:type="xs:string">2000328628199</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">75</Value>
+		<Value xsi:type="xs:string">2000328628229</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">76</Value>
+		<Value xsi:type="xs:string">2000328628212</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">77</Value>
+		<Value xsi:type="xs:string">2000328628205</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">78</Value>
+		<Value xsi:type="xs:string">2000328628236</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">79</Value>
+		<Value xsi:type="xs:string">2000328628243</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">80</Value>
+		<Value xsi:type="xs:string">2000328628298</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">81</Value>
+		<Value xsi:type="xs:string">2000328628274</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">82</Value>
+		<Value xsi:type="xs:string">2000328628267</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">83</Value>
+		<Value xsi:type="xs:string">2000328628250</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">84</Value>
+		<Value xsi:type="xs:string">2000328628281</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">85</Value>
+		<Value xsi:type="xs:string">2000328628342</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">86</Value>
+		<Value xsi:type="xs:string">2000328628328</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">87</Value>
+		<Value xsi:type="xs:string">2000328628311</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">88</Value>
+		<Value xsi:type="xs:string">2000328628304</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">89</Value>
+		<Value xsi:type="xs:string">2000328628335</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">90</Value>
+		<Value xsi:type="xs:string">2000328628434</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">91</Value>
+		<Value xsi:type="xs:string">2000328628410</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">92</Value>
+		<Value xsi:type="xs:string">2000328628403</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">93</Value>
+		<Value xsi:type="xs:string">2000328628397</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">94</Value>
+		<Value xsi:type="xs:string">2000328628427</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">95</Value>
+		<Value xsi:type="xs:string">2000328634107</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">96</Value>
+		<Value xsi:type="xs:string">2000328634091</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">97</Value>
+		<Value xsi:type="xs:string">2000328634084</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">98</Value>
+		<Value xsi:type="xs:string">2000328634077</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">99</Value>
+		<Value xsi:type="xs:string">2000328634060</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">100</Value>
+		<Value xsi:type="xs:string">2000328634053</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">101</Value>
+		<Value xsi:type="xs:string">2000328634046</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">102</Value>
+		<Value xsi:type="xs:string">2000328634039</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">103</Value>
+		<Value xsi:type="xs:string">2000328634022</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">104</Value>
+		<Value xsi:type="xs:string">2000328634015</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">105</Value>
+		<Value xsi:type="xs:string">2000328634008</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">106</Value>
+		<Value xsi:type="xs:string">2000328628991</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">107</Value>
+		<Value xsi:type="xs:string">2000328628984</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">108</Value>
+		<Value xsi:type="xs:string">2000328628977</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">109</Value>
+		<Value xsi:type="xs:string">2000328628960</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">110</Value>
+		<Value xsi:type="xs:string">2000328628953</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">111</Value>
+		<Value xsi:type="xs:string">2000328628946</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">112</Value>
+		<Value xsi:type="xs:string">2000328628939</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">113</Value>
+		<Value xsi:type="xs:string">2000328628922</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">114</Value>
+		<Value xsi:type="xs:string">2000328628915</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">115</Value>
+		<Value xsi:type="xs:string">2000328628908</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">116</Value>
+		<Value xsi:type="xs:string">2000328628892</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">117</Value>
+		<Value xsi:type="xs:string">2000328628885</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">118</Value>
+		<Value xsi:type="xs:string">2000328628878</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">119</Value>
+		<Value xsi:type="xs:string">2000328628861</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">120</Value>
+		<Value xsi:type="xs:string">2000328628854</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">121</Value>
+		<Value xsi:type="xs:string">2000328628847</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">122</Value>
+		<Value xsi:type="xs:string">2000328628830</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">123</Value>
+		<Value xsi:type="xs:string">2000328628823</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">124</Value>
+		<Value xsi:type="xs:string">2000328628526</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">125</Value>
+		<Value xsi:type="xs:string">2000328628519</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">126</Value>
+		<Value xsi:type="xs:string">2000328628502</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">127</Value>
+		<Value xsi:type="xs:string">2000328628496</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">128</Value>
+		<Value xsi:type="xs:string">2000105992369</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">129</Value>
+		<Value xsi:type="xs:string">2000105992345</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">130</Value>
+		<Value xsi:type="xs:string">2000105992338</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">131</Value>
+		<Value xsi:type="xs:string">2000105992321</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">132</Value>
+		<Value xsi:type="xs:string">2000105992352</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">133</Value>
+		<Value xsi:type="xs:string">2000105992413</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">134</Value>
+		<Value xsi:type="xs:string">2000105992390</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">135</Value>
+		<Value xsi:type="xs:string">2000105992383</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">136</Value>
+		<Value xsi:type="xs:string">2000105992376</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">137</Value>
+		<Value xsi:type="xs:string">2000105992406</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">138</Value>
+		<Value xsi:type="xs:string">2000105992260</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">139</Value>
+		<Value xsi:type="xs:string">2000105992246</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">140</Value>
+		<Value xsi:type="xs:string">2000105992253</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">141</Value>
+		<Value xsi:type="xs:string">2000105992277</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">142</Value>
+		<Value xsi:type="xs:string">2000328634152</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">143</Value>
+		<Value xsi:type="xs:string">2000328634138</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">144</Value>
+		<Value xsi:type="xs:string">2000328634121</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">145</Value>
+		<Value xsi:type="xs:string">2000328634114</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">146</Value>
+		<Value xsi:type="xs:string">2000328634145</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">147</Value>
+		<Value xsi:type="xs:string">2000328634169</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">148</Value>
+		<Value xsi:type="xs:string">2000357302015</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">149</Value>
+		<Value xsi:type="xs:string">2000358564009</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">150</Value>
+		<Value xsi:type="xs:string">2000357302046</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">151</Value>
+		<Value xsi:type="xs:string">2000357302039</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">152</Value>
+		<Value xsi:type="xs:string">2000357302091</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">153</Value>
+		<Value xsi:type="xs:string">2000357302077</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">154</Value>
+		<Value xsi:type="xs:string">2000357302060</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">155</Value>
+		<Value xsi:type="xs:string">2000357302053</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">156</Value>
+		<Value xsi:type="xs:string">2000357302084</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">157</Value>
+		<Value xsi:type="xs:string">2000357302145</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">158</Value>
+		<Value xsi:type="xs:string">2000357302121</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">159</Value>
+		<Value xsi:type="xs:string">2000357302114</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">160</Value>
+		<Value xsi:type="xs:string">2000357302107</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">161</Value>
+		<Value xsi:type="xs:string">2000357302138</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">162</Value>
+		<Value xsi:type="xs:string">2000106866188</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">163</Value>
+		<Value xsi:type="xs:string">2000328634572</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">164</Value>
+		<Value xsi:type="xs:string">2000328634589</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">165</Value>
+		<Value xsi:type="xs:string">2000328634558</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">166</Value>
+		<Value xsi:type="xs:string">2000328634565</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">167</Value>
+		<Value xsi:type="xs:string">2000328634541</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">168</Value>
+		<Value xsi:type="xs:string">2000328634596</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">169</Value>
+		<Value xsi:type="xs:string">2000328634503</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">170</Value>
+		<Value xsi:type="xs:string">2000328634480</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">171</Value>
+		<Value xsi:type="xs:string">2000328634527</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">172</Value>
+		<Value xsi:type="xs:string">2000328634510</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">173</Value>
+		<Value xsi:type="xs:string">2000328634534</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">174</Value>
+		<Value xsi:type="xs:string">2000328634640</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">175</Value>
+		<Value xsi:type="xs:string">2000328634657</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">176</Value>
+		<Value xsi:type="xs:string">2000328634633</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">177</Value>
+		<Value xsi:type="xs:string">2000328634602</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">178</Value>
+		<Value xsi:type="xs:string">2000328634664</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">179</Value>
+		<Value xsi:type="xs:string">2000328634442</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">180</Value>
+		<Value xsi:type="xs:string">2000328634459</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">181</Value>
+		<Value xsi:type="xs:string">2000328634473</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:decimal">182</Value>
+		<Value xsi:type="xs:string">2000328634466</Value>
+	</row>
+</ValueTable>

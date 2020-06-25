@@ -1,0 +1,4 @@
+﻿This is a parameter file
+PROCESS_UPD_WILDBERRIES
+C:\Users\Arcanist\IdeaProjects\one_c_processor\test\source_upd.xml
+C:\Users\Arcanist\IdeaProjects\one_c_processor\test\source_data.xml
