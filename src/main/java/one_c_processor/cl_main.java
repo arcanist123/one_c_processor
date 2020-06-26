@@ -20,8 +20,8 @@ public final class cl_main {
 
     private cl_main() {
         actions = new HashMap<String, if_command>();
-        actions.put(cl_actions.GET_XLSX_FROM_XML, new cl_xlsx_to_xml_converter());
-        actions.put(cl_actions.GET_XML_FROM_XLSX, new XML2XLSXConverter());
+        actions.put(cl_actions.GET_XLSX_FROM_XML, new XML2XLSXConverter());
+        actions.put(cl_actions.GET_XML_FROM_XLSX, new cl_xlsx_to_xml_converter());
         actions.put(cl_actions.GENERATE_PICTURES, new PictureParser());
         actions.put(cl_actions.PROCESS_UPD_WILDBERRIES, new cl_xml_to_upp_converter());
     }
@@ -39,25 +39,6 @@ public final class cl_main {
             //depending on the action instantiate different files
             String action = parametersList.get(1);//the first argument is always action
             actions.get(action).execute(parametersList);
-
-            if (cl_actions.GET_XLSX_FROM_XML.toString().equals(action)) {
-
-                //we are requested to translate the XMl file into XLSX document. instantiate the translator
-                //define source folder
-
-                String sourceXML = parametersList.get(2);
-                String targetExcel = parametersList.get(3);
-
-                XML2XLSXConverter xml2XLSXConverter = XML2XLSXConverter.createConverter(sourceXML, targetExcel);
-                xml2XLSXConverter.convert();
-            } else if (cl_actions.GET_XML_FROM_XLSX.toString().equals(action)) {
-
-
-
-            } else if (cl_actions.GENERATE_PICTURES.toString().equals(action)) {
-
-            }
-
 
         } catch (Exception e) {
             e.printStackTrace();
